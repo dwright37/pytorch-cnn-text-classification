@@ -4,5 +4,7 @@ PyTorch implementation of the small model from the paper "Character-level Convol
 ## Requirements
 - Python 3.6
 - PyTorch 0.4
+- Numpy
+- Pandas
 
 To test the model, create a directory "data" and unzip the yelp review full dataset from the project's [data repository](https://drive.google.com/drive/u/1/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M) into it. Then run the cells in the notebook.
